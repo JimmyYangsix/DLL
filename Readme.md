@@ -13,6 +13,6 @@ QQ:1075887609
 
 E-mail:3300744526@qq.com   
 ### 说明
-Atbash.dll-------------------------埃特巴什码    调用：AtbashCipher.InterfaceUse()      
-Caesar.dll------------------------- 凯撒加解密    调用：Caesar.InterfaceUse()      
-Rot.dll     --------------------------ROT加密       调用： rot.InterfaceUse()     
+Atbash.dll-------------------------埃特巴什码  调用：AtbashCipher.InterfaceUse()      
+Caesar.dll------------------------- 凯撒加解密  调用：Caesar.InterfaceUse()      
+Rot.dll--------------------------ROT加密  调用： rot.InterfaceUse()     
